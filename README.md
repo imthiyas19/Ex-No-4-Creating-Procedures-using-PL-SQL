@@ -1,4 +1,5 @@
 # Ex-No-4-Creating-Procedures-using-PL-SQL
+# DATE:
 ## AIM: To create a procedure using PL/SQL.
 # Steps:
 Create employee table with following attributes (empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
